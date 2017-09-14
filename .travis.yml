@@ -3,6 +3,7 @@ matrix:
     - language: java
       jdk: oraclejdk7
       before_script:
+        - jdk_switcher use oraclejdk7
         - cd example
       script: 
         - ./gradlew test
