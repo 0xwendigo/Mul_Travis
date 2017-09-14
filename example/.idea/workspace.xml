@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ecf6175-3048-4a79-ad4a-a61d7bb1d25e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-    </list>
+    <list default="true" id="8ecf6175-3048-4a79-ad4a-a61d7bb1d25e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -505,7 +498,7 @@
       <option name="presentableId" value="Default" />
       <updated>1505367961607</updated>
       <workItem from="1505367965721" duration="2102000" />
-      <workItem from="1505381274460" duration="260000" />
+      <workItem from="1505381274460" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="test 02">
       <created>1505381489134</created>
@@ -518,7 +511,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2362000" />
+    <option name="totallyTimeSpent" value="2606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
