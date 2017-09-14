@@ -7,7 +7,7 @@ import java.util.List;
  * Created by Assunta on 12/11/2016.
  */
 public class Cliente  {
-    private String _nome;
+    private String _nome = "";
     private List<Noleggio> _noleggi = new ArrayList<Noleggio>();
 
     public Cliente (String nome) {
