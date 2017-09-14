@@ -1,12 +1,10 @@
 matrix:
   include:
     - language: java
-      jdk: oraclejdk7
+      jdk: oraclejdk8
       before_script:
-        
         - cd example
       script: 
-        - jdk_switcher use oraclejdk7
         - ./gradlew test
     - language: python
       python: 2.7
