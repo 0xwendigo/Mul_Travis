@@ -11,7 +11,7 @@ matrix:
         - sudo add-apt-repository ppa:fkrull/deadsnakes -y
         - sudo apt-get -qq update
         - sudo apt-get install -y python2.7
-
+        - sudo easy_install pip
     - language: python
       python: 2.7
       script:
