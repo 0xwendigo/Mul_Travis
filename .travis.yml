@@ -1,11 +1,17 @@
 matrix:
   include:
     - language: java
+      sudo: required
       jdk: oraclejdk8
       before_script:
         - cd example
       script: 
         - ./gradlew test
+      before_install:
+        - sudo add-apt-repository ppa:fkrull/deadsnakes -y
+        - sudo apt-get -qq update
+        - sudo apt-get install -y python2.7
+
     - language: python
       python: 2.7
       script:
